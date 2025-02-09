@@ -1,10 +1,10 @@
 音声をゆっくりの声に変換してくれるやつです★
 chatgptに作ってもらいました
 
-#使ってる言語:
+使ってる言語:
 Python(使用しているライブラリは、cv2,numpy as np,pyautogui,speech_recognition as sr,threading,time,subprocess です。もしかしたら誤字があるかも...)
 
-#前提ソフト:
+前提ソフト:
 前提ソフトは棒読みちゃん,YMM4(ゆっくりムービーメーカー4),棒読みちゃんとYMM4を連携するためのプラグイン(YMM4,棒読みちゃん どっちもプラグインが必要)
 
 棒読みちゃんのDLリンク:
