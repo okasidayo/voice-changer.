@@ -7,7 +7,7 @@ Python(使用しているライブラリは、cv2,numpy as np,pyautogui,speech_r
 #前提ソフト:
 前提ソフトは棒読みちゃん,YMM4(ゆっくりムービーメーカー4),棒読みちゃんとYMM4を連携するためのプラグイン(YMM4,棒読みちゃん どっちもプラグインが必要)
 
-#棒読みちゃんのDLリンク:
+棒読みちゃんのDLリンク:
 https://x.gd/xEXJh
 YMM4(Lite)のDLリンク:
 https://x.gd/QOr4n
