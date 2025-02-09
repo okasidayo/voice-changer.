@@ -9,11 +9,11 @@ Python(使用しているライブラリは、cv2,numpy as np,pyautogui,speech_r
 
 #棒読みちゃんのDLリンク:
 https://x.gd/xEXJh
-#YMM4(Lite)のDLリンク:
+YMM4(Lite)のDLリンク:
 https://x.gd/QOr4n
-#棒読みちゃんのプラグイン:
+棒読みちゃんのプラグイン:
 https://x.gd/kFnps
-#YMM4のプラグイン:
+YMM4のプラグイン:
 https://x.gd/5Hq5u
 
 が必要(多い)
